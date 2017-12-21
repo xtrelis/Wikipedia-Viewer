@@ -1,0 +1,42 @@
+body {
+  background-image: url("http://hdblackwallpaper.com/wallpaper/2015/04/black-hd-wallpaper-1920x1080-17-background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+img {
+  width: 20%;
+  margin-top: 20px;
+}
+
+#input {
+  width: 100%;
+  margin-top: 20px;
+}
+
+#button {
+  width: 40%;
+  margin-top: 10px;
+}
+
+ul li {
+  background-color: white;
+  font-weight: bold;
+  border-style: ridge;;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  color: white;
+}
+
+.footer {
+  color: white;
+} 
